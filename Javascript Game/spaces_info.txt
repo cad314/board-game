@@ -1,0 +1,21 @@
+Spaces
+
+Empty Space: --
+
+Monkey (5, 11, 16, 20, 29, 36, 43, 54, 62, 72): extra turn
+
+Giraffe (21): move from space 21 to 26
+
+Hyena (44, 64): move forward three spaces
+
+Cheetah (41): move forward six spaces
+
+Elephant (7, 28, 48, 75): lose turn
+
+Elephant Trap (13, 68): start from beginning
+
+Lion (32): move backward six spaces
+
+Broken Bridge (55): move from space 55 to 10
+
+Stop to Bury Explorer (57): lose two turns

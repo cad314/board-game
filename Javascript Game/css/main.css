@@ -1,0 +1,43 @@
+body {
+	margin: auto;
+	background-color: #135913;
+}
+
+#container {
+	margin: auto;
+	background-color: #ff0f06;
+	color: #c9ffc9;
+}
+
+#header {
+	line-height: 50px;
+	text-align: center;
+	background-color: lime;
+}
+
+#console {
+	background-color: black;
+}
+
+#gameCanvas {
+	background-color: white;
+}
+
+#input {
+	text-align: center;
+	background-color: #135913;
+}
+
+#header, #console, #gameCanvas, #input {
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+
+.white {
+	background-color: white;
+}
